@@ -49,7 +49,7 @@ A set of instructions Copilot follows for one specific job. It's a folder with a
 Access to Copilot Cowork in Microsoft 365.
 
 **Does it work in other AI tools?**
-I build and test everything in Copilot Cowork. Other assistants that support skill files may load it, but I haven't done a lot of testing.
+I build and test everything in Copilot Cowork. Other assistants that support skill files will load it, but the experience may vary.
 
 **Can I change it?**
 Yes. It's MIT licensed. Edit `SKILL.md`, zip the folder again and upload it.
