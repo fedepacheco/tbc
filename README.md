@@ -26,7 +26,7 @@ Get feedback before you send. Predict how people will react to your email, doc o
 |---|---|
 | 🎮 **[The Office RPG](skills/the-office-rpg)**: a Copilot Cowork skill | [⬇️ Download](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip) |
 
-📖 The article: coming soon.
+📖 [Read the article: Before you send, let's play a game](https://www.linkedin.com/pulse/before-you-send-lets-play-game-fede-pacheco-d0ble/)
 
 ## Install a skill in Copilot Cowork
 

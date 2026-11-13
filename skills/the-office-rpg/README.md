@@ -12,7 +12,7 @@
 
 Bring an email, doc or deck. The skill predicts how up to three people will react, lets you play out a short back-and-forth, and ends with a scorecard and the exact edits to make.
 
-From **To Be Creative No.04**. The article: coming soon.
+From **To Be Creative No.04**: [read the article](https://www.linkedin.com/pulse/before-you-send-lets-play-game-fede-pacheco-d0ble/).
 
 ## Install in 2 minutes
 
