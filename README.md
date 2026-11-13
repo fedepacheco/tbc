@@ -28,10 +28,6 @@ Get feedback before you send. Predict how people will react to your email, doc o
 
 📖 The article: coming soon.
 
-### 12 Days of Creativity
-
-Coming in December. One new idea a day, all of it right here.
-
 ## Install a skill in Copilot Cowork
 
 1. Click the **⬇️ Download** link for the skill. A `.zip` file lands in your Downloads.
