@@ -1,22 +1,36 @@
+<p align="center">
+  <a href="https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/"><img src="assets/brand/tbc-banner.jpg" alt="To Be Creative with Fede Pacheco. Move slower with AI." width="100%"></a>
+</p>
+
 # To Be Creative
 
 **I use AI to create, not save time.**
 
-[![MIT license](https://img.shields.io/badge/license-MIT-002955?style=flat-square)](LICENSE)
-[![Built for Copilot Cowork](https://img.shields.io/badge/built%20for-Copilot%20Cowork-1A4FD0?style=flat-square)](#install-a-skill-in-copilot-cowork)
-[![Newsletter: To Be Creative](https://img.shields.io/badge/newsletter-To%20Be%20Creative-FFD400?style=flat-square&labelColor=002955)](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/)
+[![MIT license](https://img.shields.io/badge/license-MIT-00009C?style=flat-square)](LICENSE)
+[![Built for Copilot Cowork](https://img.shields.io/badge/built%20for-Copilot%20Cowork-FF009C?style=flat-square)](#install-a-skill-in-copilot-cowork)
+[![Newsletter: To Be Creative](https://img.shields.io/badge/newsletter-To%20Be%20Creative-FCDF00?style=flat-square&labelColor=00009C)](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/)
 
-This repo holds the skills and prompts from my LinkedIn newsletter, [To Be Creative](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/). Take them, use them, make them yours.
+This repo holds the skills and prompts from my LinkedIn newsletter, [To Be Creative](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/). Every article gets its own section below. Take what you like, use it, make it yours.
 
 ### [⬇️ Download The Office RPG](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip)
 
-## What's here
+## Articles
 
-| | Skill | What it does | Get it |
-|---|---|---|---|
-| <a href="skills/the-office-rpg"><img src="skills/the-office-rpg/assets/how-it-works.png" width="160" alt="The Office RPG: Setup, Play, Scorecard"></a> | 🎮 **[The Office RPG](skills/the-office-rpg)** | Get feedback before you send. Predict how people will react, then fix it. | [⬇️ Download](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip) |
+### No.04 · The Office RPG
 
-More is coming in December with **12 Days of Creativity**.
+<a href="skills/the-office-rpg"><img src="skills/the-office-rpg/assets/office-rpg-cover.jpg" alt="The Office RPG, To Be Creative No.04 cover: a pixel-art office in pink and blue" width="420"></a>
+
+Get feedback before you send. Predict how people will react to your email, doc or deck, then fix it.
+
+| What you get | Get it |
+|---|---|
+| 🎮 **[The Office RPG](skills/the-office-rpg)**: a Copilot Cowork skill | [⬇️ Download](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip) |
+
+📖 The article: coming soon.
+
+### 12 Days of Creativity
+
+Coming in December. One new idea a day, all of it right here.
 
 ## Install a skill in Copilot Cowork
 
