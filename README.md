@@ -6,7 +6,7 @@
 
 **I use AI to create, not save time.**
 
-[![MIT license](https://img.shields.io/badge/license-MIT-00009C?style=flat-square)](LICENSE)
+[![MIT license](https://img.shields.io/badge/license-MIT-00009C?style=flat-square)](https://github.com/fedepacheco/tbc/blob/main/LICENSE)
 [![Built for Copilot Cowork](https://img.shields.io/badge/built%20for-Copilot%20Cowork-FF009C?style=flat-square)](#install-a-skill-in-copilot-cowork)
 [![Newsletter: To Be Creative](https://img.shields.io/badge/newsletter-To%20Be%20Creative-FCDF00?style=flat-square&labelColor=00009C)](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/)
 
@@ -49,7 +49,7 @@ A set of instructions Copilot follows for one specific job. It's a folder with a
 Access to Copilot Cowork in Microsoft 365.
 
 **Does it work in other AI tools?**
-I build and test everything in Copilot Cowork. Other assistants that support skill files may load it, but I haven't tested them.
+I build and test everything in Copilot Cowork. Other assistants that support skill files may load it, but I haven't done a lot of testing.
 
 **Can I change it?**
 Yes. It's MIT licensed. Edit `SKILL.md`, zip the folder again and upload it.

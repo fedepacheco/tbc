@@ -4,8 +4,8 @@
 
 **Get feedback before you send.**
 
-[![Version 3.4](https://img.shields.io/badge/version-3.4-00009C?style=flat-square)](SKILL.md)
-[![MIT license](https://img.shields.io/badge/license-MIT-FF009C?style=flat-square)](../../LICENSE)
+[![Version 3.4](https://img.shields.io/badge/version-3.4-00009C?style=flat-square)](https://github.com/fedepacheco/tbc/blob/main/skills/the-office-rpg/SKILL.md)
+[![MIT license](https://img.shields.io/badge/license-MIT-FF009C?style=flat-square)](https://github.com/fedepacheco/tbc/blob/main/LICENSE)
 [![Built for Copilot Cowork](https://img.shields.io/badge/built%20for-Copilot%20Cowork-FCDF00?style=flat-square&labelColor=00009C)](#install-in-2-minutes)
 
 ## [⬇️ Download The Office RPG](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip)
@@ -49,9 +49,9 @@ From **To Be Creative No.04**. The article: coming soon.
 | File | What it is |
 |---|---|
 | [`the-office-rpg.zip`](https://github.com/fedepacheco/tbc/raw/main/skills/the-office-rpg/the-office-rpg.zip) | Download this one to install |
-| [`SKILL.md`](SKILL.md) | The instructions Copilot follows, readable |
-| [`references/`](references) | The demo cast, the sample scenario and an example game |
-| [`assets/`](assets) | The how-it-works guide, the cover and the step images |
+| [`SKILL.md`](https://github.com/fedepacheco/tbc/blob/main/skills/the-office-rpg/SKILL.md) | The instructions Copilot follows, readable |
+| [`references/`](https://github.com/fedepacheco/tbc/tree/main/skills/the-office-rpg/references) | The demo cast, the sample scenario and an example game |
+| [`assets/`](https://github.com/fedepacheco/tbc/tree/main/skills/the-office-rpg/assets) | The how-it-works guide, the cover and the step images |
 
 Version 3.4 · MIT license · by Fede Pacheco · from [To Be Creative](https://www.linkedin.com/newsletters/to-be-creative-7447669265270448130/)
 

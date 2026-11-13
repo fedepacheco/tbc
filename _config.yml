@@ -1,0 +1,7 @@
+# Settings for the clean web page (GitHub Pages).
+title: To Be Creative
+description: Skills and prompts from To Be Creative. I use AI to create, not save time.
+exclude:
+  - MAINTAINING.md
+  - skills/the-office-rpg/SKILL.md
+  - skills/the-office-rpg/references
